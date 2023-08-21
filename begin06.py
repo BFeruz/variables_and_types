@@ -1,9 +1,5 @@
-# Assign 24 (int value) to 'a' variable;
-
-# Assign 3 (int value) to 'b' variable;
-
-# Assign 5 (int value) to 'c' variable;
-
-# Find the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin06';
-
-# # Print the variable 'k'.
+n=2435
+a=n//100
+b=n//10%10
+c=n%10
+print(a-b+c)
