@@ -1,5 +1,4 @@
-# Assign 5 (int value) to 'num_one' variable;
-
-# Assign 4 (int value) to 'num_two' variable;
-
-# Print sum of 'num_one' and 'num_two;
+n=54
+a=n//10
+b=n%10
+print(a+b)    
