@@ -1,5 +1,4 @@
-# Assign 6 (int value) to 'a' variable;
-
-# Assign 8 (int value) to 'b' variable;
-
-# Print the multiplicand 'a' and 'b'.
+n=68
+a=n//10
+b=n%10
+print(a*b)
